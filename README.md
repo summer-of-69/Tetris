@@ -1,3 +1,3 @@
 # Tetris
 Tetris simply
-print("just tetris")
+its just tetris html code my guy
